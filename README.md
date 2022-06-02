@@ -1,2 +1,2 @@
-# NO-1
-Just an homepage website I created as a beginner
+Just an homepage of a simple website I created as a beginner
+The webpage's aim is to lure people to getting themselves their own AI robot 
