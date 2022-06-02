@@ -1,0 +1,147 @@
+body{
+    margin: 0;
+    text-align: center;
+    color: black;
+    background-color: #9BA3EB;    
+}
+.top-container{
+    position:relative;
+}
+hr{
+    margin-top: 0;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    border: dotted rgb(53, 44, 44) 5px;
+    width:4%;
+    border-bottom: none;
+}
+.intro-head{
+    margin-top: 0;
+    margin-bottom: 5px;
+    font-family: 'Black Ops One', cursive;
+    font-size: 7rem;
+    font-weight:700;
+    position: absolute;
+    top: 180px;
+    left: 310px;
+    color: white;
+}
+.intro-para{
+    margin-top: 0;
+    font-family: 'Black Ops One', cursive;
+    font-size: 3rem;
+    position: absolute;
+    top: 320px;
+    left: 700px;
+    color: white;
+}
+.techwall{
+    width:100%;
+}
+.robo1{
+    width: 300px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.robo2{
+    width: 300px;
+    position: absolute ;
+    top: 0px;
+    right: 0px;
+} 
+.middle-container{
+    margin-top: 0;
+    background-color: #9BA3EB;
+    padding-top: 30px;
+}
+.robo-circ{
+    width:200px;
+}
+.profile-head{
+    margin: 0;
+}
+.profile-para{
+    line-height: 1.5;
+    margin-bottom: 50px;
+}
+.skill-head{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.skill-row{
+    margin:auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+.skill-control{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.control-head{
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+.control-para{
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+.skill-personalize{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.personalize-head{
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+.personalize-para{
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+.contact-me{
+    margin-top: 50px;
+}
+.btn {
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 8px;
+    color: #9BA3EB;
+    font-family: Verdana;
+    font-size: 15px;
+    font-weight: 500;
+    margin: 15px 15px 50px 15px;
+    padding: 10px;
+    background-color: #000000;
+    -webkit-box-shadow: inset 0 -6px 11px 0 #9BA3EB;
+    -moz-box-shadow: inset 0 -6px 11px 0 #9BA3EB;
+    box-shadow: inset 0 -6px 11px 0 #6f74a7;
+    border: solid #000000 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ .btn:hover{
+    background-color: rgb(53, 44, 44);
+ }
+.bottom-container{
+    background-color: #000000;
+    color: #9BA3EB;
+    padding: 30px;
+}
+.footer-link{
+    text-decoration: none;
+    color: #9BA3EB;    
+    padding: 8px;
+}
+.footer-link:hover{
+    color: white;
+}
+.credits{
+    margin-top: 30px;
+    margin-bottom: 0;
+    color: white;
+}
